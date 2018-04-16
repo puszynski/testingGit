@@ -1,4 +1,8 @@
 Hello world!
 This is a second line in the file.
 Hi! I am Anna!
+<<<<<<< HEAD
 Are you there?
+=======
+And i am Ben ;)
+>>>>>>> 761aa8188c86992176681b05e6c1fca5b54653f8
